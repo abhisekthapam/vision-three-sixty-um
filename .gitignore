@@ -13,7 +13,8 @@ dist-ssr
 *.local
 netlify.toml
 .env
-src/assets
+src/assets/work-two
+src/assets/work-three
 
 # Editor directories and files
 .vscode/*
